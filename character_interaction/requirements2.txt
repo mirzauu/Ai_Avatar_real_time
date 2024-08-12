@@ -133,10 +133,9 @@ soupsieve==2.5
 SpeechRecognition==3.10.4
 sqlparse==0.4.4
 stack-data==0.6.3
-tensorboard==2.17.0
+tensorboard==2.11.0
 tensorboard-data-server==0.7.2
 tensorflow==2.11.0
-tensorflow-intel==2.17.0
 termcolor==2.4.0
 tf_keras==2.17.0
 threadpoolctl==3.5.0
