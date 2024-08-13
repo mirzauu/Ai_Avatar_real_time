@@ -47,6 +47,7 @@ google-api-core==2.19.1
 google-api-python-client==2.140.0
 google-auth==2.33.0
 google-auth-httplib2==0.2.0
+google-cloud-speech==2.27.0
 google-cloud-texttospeech==2.16.5
 google-generativeai==0.7.2
 google-pasta==0.2.0
@@ -133,9 +134,10 @@ soupsieve==2.5
 SpeechRecognition==3.10.4
 sqlparse==0.4.4
 stack-data==0.6.3
-tensorboard==2.11.0
+tensorboard==2.17.0
 tensorboard-data-server==0.7.2
 tensorflow==2.17.0
+tensorflow-intel==2.17.0
 termcolor==2.4.0
 tf_keras==2.17.0
 threadpoolctl==3.5.0
